@@ -26,11 +26,11 @@ npm install
 ### Install the dependencies:
 
 ```
-npm install
+1.To start the development server, run:
 
 ```
 npm run dev
-```
-1.To start the development server, run:
+
+
 
 
