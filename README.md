@@ -42,9 +42,15 @@ npm install
 
 ###To start the development server, run:
 
-````
+```
 npm run dev
+```
+#Signup page
+![Signup](https://github.com/user-attachments/assets/c7246c25-d12b-4dd4-8d3f-9f4c820f11d0)
 
+#alert dublication
 
+![alert massage](https://github.com/user-attachments/assets/5faf2dbc-5099-43ad-bd16-e17df4ac9197)
+#loginpage
 
-
+![loginpage](https://github.com/user-attachments/assets/dbdbd450-128d-4006-8a06-d74c59dbbc9b)
