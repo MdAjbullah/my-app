@@ -46,6 +46,9 @@ npm install
 npm run dev
 ```
 #Signup page
+
+
+
 ![Signup](https://github.com/user-attachments/assets/c7246c25-d12b-4dd4-8d3f-9f4c820f11d0)
 
 #alert dublication
@@ -54,3 +57,6 @@ npm run dev
 #loginpage
 
 ![loginpage](https://github.com/user-attachments/assets/dbdbd450-128d-4006-8a06-d74c59dbbc9b)
+
+##Local Storage Data
+![localstorage](https://github.com/user-attachments/assets/2c0a8673-94fb-4689-af7b-aa3f8e73d2e4)
