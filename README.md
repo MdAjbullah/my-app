@@ -59,4 +59,5 @@ npm run dev
 ![loginpage](https://github.com/user-attachments/assets/dbdbd450-128d-4006-8a06-d74c59dbbc9b)
 
 ##Local Storage Data
-![localstorage](https://github.com/user-attachments/assets/2c0a8673-94fb-4689-af7b-aa3f8e73d2e4)
+
+![localst](https://github.com/user-attachments/assets/9b888874-bb7e-4201-91ad-a9681f098a18)
