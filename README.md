@@ -17,16 +17,20 @@ This is a simple React application built using Vite. The application includes a 
 
 ### Installation
 
-1. Clone the repository:
+
 
 ```sh
+npm install
+
+```
 ### Install the dependencies:
+
 ```
 npm install
-```
-1.To start the development server, run:
+
 ```
 npm run dev
-``
+```
+1.To start the development server, run:
 
 
